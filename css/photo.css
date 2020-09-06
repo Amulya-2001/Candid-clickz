@@ -227,12 +227,8 @@ form button{
 		padding:1%;
 		flex-direction: column;
 	}
-	.sec1,.sec2,.sec3 p{
-		text-align:center;
-		padding:1%;
-		margin:1%;
-	}
 	.card{
+		display:flex;
 		flex-direction: column;
 	}
 }
